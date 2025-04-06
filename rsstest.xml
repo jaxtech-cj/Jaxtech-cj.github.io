@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <atom:link href="https://jax.tech/rsstest.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[Jax Tech]]></title>
+  <link>https://jax.tech</link>
+  <description><![CDATA[Information Technology & Security]]></description>
+  <language>en-us</language>
+  <ttl>1</ttl>
+  <image>
+   <url>https://jax.tech/images/jaxtestrss.png</url>
+   <title><![CDATA[Jax Tech]]></title> 
+   <link>https://jax.tech</link>
+   <width>144</width>
+   <height>144</height>
+  </image>
+  <pubDate>Fri, 15 Nov 2024 3:00:00 EDT</pubDate>
+  <lastBuildDate>Fri, 15 Nov 2024 3:00:00 EDT</lastBuildDate>
+  <managingEditor>rss@jax.tech</managingEditor>
+  <webMaster>rss@jax.tech</webMaster>
+  <item>
+   <title>New Website Teaser</title>
+   <description>jaxtech.ca has been redirected to the new jax.tech domain and jax.tech launches with a teaser page</description>
+   <link>https://jax.tech</link>
+    <pubDate>Fri, 15 Nov 2024 3:02:00 EDT</pubDate>
+    <guid>https://jax.tech/#2</guid>
+    <media:content medium="image" url="https://jax.tech/rss/2.png" width="300" height="300" type="image/png"/>
+   </item>
+  <item>
+   <title>Web Branding Change - jax.tech</title>
+   <description>The web domain: jax.tech has been acquired for new branding</description>
+   <link>https://jax.tech</link>
+    <pubDate>Fri, 15 Nov 2024 3:00:00 EDT</pubDate>
+    <guid>https://jax.tech/#1</guid>
+    <media:content medium="image" url="https://jax.tech/rss/1.png" width="300" height="233" type="image/png"/>
+   </item>
+ </channel>
+</rss>
