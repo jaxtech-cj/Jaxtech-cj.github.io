@@ -3,36 +3,44 @@
  <channel>
   <atom:link href="https://anylove.ca/rsstest.xml" rel="self" type="application/rss+xml" />
   <title><![CDATA[Any Love]]></title>
-  <link>https://anylove.ca</link>
+  <link>https://jax.tech/anylove</link>
   <description><![CDATA[Revolutionizing Finding Love]]></description>
   <language>en-us</language>
   <ttl>1</ttl>
   <image>
-   <url>https://anylove.ca/images/anyloverss.png</url>
+   <url>https://jax.tech/anylove/images/anyloverss.png</url>
    <title><![CDATA[Any Love]]></title> 
-   <link>https://anylove.ca</link>
+   <link>https://jax.tech/anylove</link>
    <width>144</width>
    <height>144</height>
   </image>
   <pubDate>Tue, 23 May 2023 14:18:00 EDT</pubDate>
   <lastBuildDate>Tue, 23 May 2023 14:18:00 EDT</lastBuildDate>
-  <managingEditor>info@anylove.ca (Corey Jackson)</managingEditor>
-  <webMaster>info@anylove.ca (Corey Jackson)</webMaster>
+  <managingEditor>webmaster@jax.tech (Corey Jackson)</managingEditor>
+  <webMaster>webmaster@jax.tech (Corey Jackson)</webMaster>
+  <item>
+   <title>Expanded scope for Creators/Fans</title>
+   <description>App scope has been expanded to support creators/fans</description>
+   <link>https://jax.tech/anylove</link>
+   <pubDate>Tue, 23 May 2023 13:06:42 EDT</pubDate>
+   <guid>https://jax.tech/anylove/#3</guid>
+   <media:content medium="image" url="https://jax.tech/anylove/rss/3.png" width="300" height="300" type="image/png"/>
+  </item>
   <item>
    <title>Company Logo</title>
    <description>Company Logo has been defined and published for branding circulation</description>
-   <link>https://anylove.ca</link>
+   <link>https://jax.tech/anylove</link>
     <pubDate>Tue, 23 May 2023 13:06:42 EDT</pubDate>
-    <guid>https://anylove.ca/#2</guid>
-    <media:content medium="image" url="https://anylove.ca/rss/2.png" width="300" height="300" type="image/png"/>
-   </item>
+    <guid>https://jax.tech/anylove/#2</guid>
+    <media:content medium="image" url="https://jax.tech/anylove/rss/2.png" width="300" height="300" type="image/png"/>
+  </item>
   <item>
    <title>Website Teaser Launch</title>
    <description>A preview of Any Love website is launched</description>
-   <link>https://anylove.ca</link>
+   <link>https://jax.tech/anylove</link>
     <pubDate>Mon, 15 May 2023 11:04:00 EDT</pubDate>
-    <guid>https://anylove.ca/#1</guid>
-    <media:content medium="image" url="https://anylove.ca/rss/1.png" width="300" height="233" type="image/png"/>
+    <guid>https://jax.tech/anylove/#1</guid>
+    <media:content medium="image" url="https://jax.tech/anylove/rss/1.png" width="300" height="233" type="image/png"/>
    </item>
  </channel>
 </rss>
