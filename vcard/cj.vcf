@@ -6,14 +6,14 @@ TITLE:Owner
 ORG:Jax Tech Solutions
 EMAIL;WORK:corey.jackson@jax.tech
 ADR:76 Victor St.;;;Sudbury;ON;P3B 3R2;Canada
+GEO:geo:43.6425194,-79.3870585
 TEL;type=CELL;type=VOICE:+17056261433
 CALADRURI:https://calendly.com/jaxtech
 X-SOCIALPROFILE;type=Messenger;x-user=JaxTechInc:https://m.me/JaxTechInc
 X-SOCIALPROFILE;type=Facebook;x-user=JaxTechInc:http://www.facebook.com/JaxTechInc
 X-SOCIALPROFILE;type=LinkedIn;x-user=JaxTechInc:http://www.linkedin.com/in/jaxtech
 X-SOCIALPROFILE;type=Instagram;x-user=jaxtechinc:https://www.instagram.com/jaxtechinc
-X-SOCIALPROFILE;type=Twitter;x-user=inc_jax:https://twitter.com/inc_jax
-X-SOCIALPROFILE;type=Teams;x-user=corey.jackson@jaxtech.ca:https://teams.live.com/l/community/FAAuA59jukbhGUn8gI
+X-SOCIALPROFILE;type=Twitter;x-user=inc_jax:https://x.com/inc_jax
 X-SOCIALPROFILE;type=YouTube;x-user=jaxtechsolutionsinc:https://www.youtube.com/channel/UCuYdKK4Lma4bZJ6kbkG892g
 X-SOCIALPROFILE;type=Calendly;x-user=book appointment:https://calendly.com/jaxtech
 URL:https://jax.tech
