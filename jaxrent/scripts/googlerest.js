@@ -4,7 +4,7 @@ function translateTest()
     const outputElement = document.getElementById('output');
     var strLang = document.getElementById('txtLanguage').value;
 
-    const apiUrl = 'https://translation.googleapis.com/language/translate/v2?key=AIzaSyDAL-P6lY5iERPG63rGIls1ZEYlzGMOjbY';
+    const apiUrl = 'https://translation.googleapis.com/language/translate/v2?key=insertkeyhere';
 
     const requestOptions = {
         method: 'POST',
