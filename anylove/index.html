@@ -71,6 +71,21 @@
 				alert("The app is under development.")
 			}
 
+			function sharePage()
+			{
+				const shareData = {
+					title: 'Any Love',
+					text: 'Revolutionizing Finding Love',
+					url: 'https://anylove.jax.tech',
+				};
+				
+				try {
+					navigator.share(shareData);
+				} catch (err) {
+					console.error(`Error: ${err}`);
+				}
+			}
+
 		</script>
 	</head>
 	<body class="is-preload">
@@ -78,7 +93,7 @@
 		<!-- Header -->
 			<header id="header">
 				<h1><img src="images/logo.png" style="vertical-align: middle;" alt="Logo"> <span style="vertical-align: middle; font-size: 40pt; font-family: 'Bellota';">Any Love</span></h1>
-				<p>Revolutionizing Finding Love...</p>
+				<p>Revolutionizing Finding Love</p>
 				<p style="font-size: 10pt;">Under development</p>
 			</header>
 
@@ -114,6 +129,7 @@
 					<!--<li><a href="#" class="fa-solid fa-envelope fa-xl" title="E-Mail"></a></li>-->
 					<li><a href="javascript: $('#diaRSSFeed').dialog('open');" class="fa-solid fa-square-rss fa-xl" title="RSS Feed 3"></a></li>
 					<li><a href="javascript: downloadApp();" class="fa-solid fa-laptop-arrow-down fa-xl" title="Download App"></a></li>
+					<li><a href="javascript: sharePage();" class="fa-regular fa-share-nodes fa-xl" title="Share Page"></a></li>
 					<li><a href="emojis.html" class="fa-solid fa-heart fa-xl" title="Emoji's"></a></li>
 				</ul>
 				<ul class="copyright">
